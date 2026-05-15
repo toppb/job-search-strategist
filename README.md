@@ -84,7 +84,7 @@ Claude: [Maps your experience to likely questions, builds story reference table]
 
 ## Origin
 
-This skill was extracted from a real job search — dozens of applications across design, fintech, HR tech, and enterprise SaaS. The pipeline, heuristics, and tailoring patterns were refined through actual use, not theoretical design. Then generalized to work for any field.
+This skill was extracted from a real job search — dozens of applications across multiple industries and role types. The pipeline, heuristics, and tailoring patterns were refined through actual use, not theoretical design. Then generalized to work for any field.
 
 ---
 

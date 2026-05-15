@@ -103,7 +103,7 @@ their work out loud. This is where you learn the most.
 
 - Projects that keep coming up — these are the user's core stories. Get to know
   them well enough that you can map them to new opportunities without re-asking.
-- Corrections — "actually, that was at 7Geese, not Paycor" or "I wasn't the lead
+- Corrections — "actually, that was at my previous company, not the acquiring company" or "I wasn't the lead
   on that, I was supporting." These sharpen your accuracy. Remember them.
 - New stories surfacing — sometimes a project only becomes relevant when a specific
   role requires it. The third application might reveal experience the first two
@@ -344,7 +344,7 @@ JD emphasizes and what the user can legitimately claim. Don't pad with generic t
 **Progressive profiling note:** Application tailoring is where you learn the most.
 When writing a cover letter, you'll ask about specific projects and the user will
 share details, metrics, and corrections you didn't have before. A user might say
-"actually the Objectives Creator was at 7Geese, which became Paycor after acquisition"
+"actually the onboarding redesign was at my previous role, which got acquired"
 or "I wasn't the lead — I was the solo designer." These corrections are gold. Each
 application you write together makes the next one better because you understand the
 user's experience more precisely.
