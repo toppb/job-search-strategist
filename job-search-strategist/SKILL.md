@@ -399,6 +399,43 @@ should be the single source of truth for each opportunity.
 
 Interview prep is about having concrete stories ready — not memorizing answers.
 
+### Pull from every source the employer has given you
+
+The JD is one source. It's often not the richest. When the recruiter has sent
+prep guidance, calendar invites with framing, automated emails with logistics,
+or any other material, treat all of it as primary source material — not just
+the job description.
+
+**What to look for in recruiter-sent material:**
+
+- **Explicit prep prompts.** If the recruiter has listed what the hiring manager
+  will probe (e.g., "be ready to talk about: a project you're proud of, a
+  failure, outcomes, cross-functional partnership"), those prompts are the
+  spine of the round. Pre-prep concrete answers for each one.
+- **Stated criteria.** "We're looking for specific, opinionated takes" or
+  "bring concrete examples" tells you exactly what delivery style will land.
+  Calibrate accordingly.
+- **Process details.** Length, who's running it, whether portfolio is expected,
+  recording tools, dress code, hybrid expectations. All affect how to show up.
+- **Cultural signals.** The tone of the recruiter's communication is itself
+  data. Warm and personal? Direct and businesslike? Match register accordingly.
+
+**Map every prep answer to a source.** After drafting interview answers, audit
+each one: which specific JD line or recruiter prompt does it address? If an
+answer isn't anchored to something the employer has explicitly named or asked
+for, it's probably generic and won't land. Replace or rewrite. A useful
+exercise: build a table mapping prep section → JD language or recruiter
+prompt it pulls from. Anything with no anchor is a gap.
+
+**Anticipate probes that drill into recruiter prompts.** When the recruiter has
+listed prep topics, the hiring manager will use them as the round's backbone.
+Each top-level prompt has 1-2 likely follow-up probes that map to JD
+priorities. Pre-prep those probes too. For example: a "project you're proud
+of" prompt often leads to "how did you influence the spec on that?" — which
+is testing for the JD's "you help shape the spec, not just execute it"
+requirement. The combined source map (JD + recruiter prompts) is what lets
+you anticipate this layer.
+
 ### Story mapping
 
 Create a mapping between the role's requirements and the user's experience. For
