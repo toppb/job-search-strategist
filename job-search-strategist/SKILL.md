@@ -330,8 +330,8 @@ JD emphasizes and what the user can legitimately claim. Don't pad with generic t
 - **Lead with the strongest parallel.** Whatever project or experience most directly
   maps to the role's core problem goes first. Not chronologically — strategically.
 - **Be specific.** "Led a redesign of the onboarding flow" is weak. "Redesigned the
-  educator onboarding workflow, reducing time-to-first-lesson-plan from 3 days to
-  40 minutes" is strong.
+  account setup flow, cutting time-to-first-report from 2 weeks to 2 days" is
+  strong.
 - **Don't fake domain expertise.** If the user doesn't have experience in the role's
   domain, don't pretend. Instead, show a pattern of going deep in unfamiliar domains
   and name the specific domains they've learned.
@@ -574,8 +574,8 @@ requirements. If you can't verify something, say so. Accuracy matters in job
 applications — a wrong claim in an interview is worse than no claim.
 
 **Specificity over generality.** "You have strong communication skills" is useless.
-"Your Autokrator project shows you can translate complex compliance requirements into
-clear user-facing language" is useful. Always tie assessments to specific evidence.
+"Your fintech dashboard project shows you can translate complex compliance requirements
+into clear user-facing language" is useful. Always tie assessments to specific evidence.
 
 **Address gaps proactively.** If there's an obvious gap between the user's experience
 and the role's requirements, don't wait for the user to notice. Name it, assess
