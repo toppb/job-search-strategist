@@ -6,6 +6,8 @@ Instead of spray-and-pray applications, this skill runs a structured pipeline fo
 
 Works for any profession — designers, engineers, PMs, marketers, or anyone doing a targeted professional job search. The method is the same; the heuristics adapt to your domain.
 
+**Want a one-click install?** [Get it on Agensi](https://www.agensi.io/skills/job-search-strategist).
+
 ---
 
 ## What it does
