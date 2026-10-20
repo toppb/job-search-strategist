@@ -90,4 +90,6 @@ This skill was extracted from a real job search — dozens of applications acros
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — free to use, share, and adapt for non-commercial purposes with credit. Reselling or relisting it is not permitted. See [LICENSE](LICENSE).
+
+Versions published before October 20, 2026 were released under the MIT License.
